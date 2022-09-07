@@ -20,5 +20,12 @@ $(document).ready(function() {
         location.href = "https://music.yandex.ru/album/23416809/track/107039197";
     });
 
+    $('#spotify').on('click', function() {
+        location.href = "https://open.spotify.com/album/6nFdnbP7YXhoghTSF29WFq";
+    });
+
+    $('#vkgroup').on('click', function() {
+        location.href = "https://vk.com/magarich_music";
+    });
 
 });

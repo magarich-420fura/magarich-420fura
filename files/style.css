@@ -100,6 +100,11 @@
     margin-left: 36px;
 }
 
+.streaming.group .streaming-content {
+    text-align: center;
+    padding-top: 6px;
+}
+
 .streaming.rights {
     background-color: transparent;
     border-bottom: 0px;
