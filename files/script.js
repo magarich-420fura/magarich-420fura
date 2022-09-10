@@ -28,4 +28,12 @@ $(document).ready(function() {
         location.href = "https://vk.com/magarich_music";
     });
 
+     $('#apple').on('click', function() {
+        location.href = "https://music.apple.com/album/id/1643435768";
+     });
+
+     $('#itunes').on('click', function() {
+         location.href = "http://itunes.apple.com/album/id1643435768?ls=1&app=itunes";
+      });
+
 });
